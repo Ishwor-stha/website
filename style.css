@@ -1,0 +1,236 @@
+* {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+
+.top-container {
+    background-color: #E0EBE8;
+    padding-top: 8%;
+    padding-right: 7%;
+    height: 70%;
+
+
+
+}
+
+.nav-bar li a:hover {
+    color: #45b29a;
+
+}
+
+
+nav {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8%;
+    background-color: #E0EBE8;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+
+
+
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-bar ul li a {
+    text-decoration: none;
+    color: #21564b;
+    font-size: 120%;
+
+
+
+
+
+}
+
+.nav-bar {
+    padding-left: 50%;
+}
+
+.nav-bar ul li {
+    list-style-type: none;
+    padding-right: 15px;
+
+
+}
+
+.top-cloud {
+
+    padding-left: 65%;
+    padding-bottom: 1%;
+
+}
+
+#introduction {
+
+    padding-left: 45%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 250%;
+    color: #45b29a;
+    font-weight: bold;
+
+
+}
+
+#introduction2 {
+    padding-left: 49%;
+    padding-top: 2%;
+    font-size: 150%;
+    color: #45b29a;
+
+}
+
+#mountain {
+    padding-left: 30%;
+
+    margin-right: 5%;
+    
+
+
+}
+
+.bottom-cloud {
+    padding-left: 40%;
+
+}
+
+#scroll {
+    width: 5%;
+    padding-left: 5%;
+}
+
+/*  top-container of index.html ends here */
+
+
+/*middle-container of index.html starts */
+
+.profile{
+    padding-left: 45%;
+    padding-top: 5%;
+
+}
+.middle-greeting{
+
+    padding-left: 48.5%;
+    color: #45b29a;
+    padding-top: 2%;
+
+}
+.middle-intro{
+    padding-left: 38%;
+    padding-top: 2%;
+    font-size: 120%;
+
+}
+.middle-greet{
+    padding-left: 45%;
+    padding-top: 5%;
+    font-size: 130%;
+    color: #45b29a;
+    
+
+
+}
+#sub-middle-greet{
+    padding-left: 42%;
+    padding-top: 2%;
+    font-size: 120%;
+    
+
+}
+#sub-middle-greet2{
+    padding-left: 35.5%;
+    font-size: 120%;
+    
+
+}
+.help{
+    padding-left: 46.5%;
+    color: #45b29a;
+
+    font-size: 120%;
+    padding-top: 4%;
+
+}
+#help1{
+    padding-left: 38.5%;
+    color: #45b29a;
+
+    font-size: 115%;
+    padding-top: 2%;
+    font-weight: bold;
+
+}
+#help2{
+
+    padding-left: 43.5%;
+    padding-top: 2%;
+
+    font-size: 100%;
+}
+.message{
+   
+  
+    margin-left:  10%;
+    padding-left: 40%;
+}
+.message a{
+    text-decoration: none;
+    background-color: #3EA08A;
+    color:wheat;
+    width: 4.5%;
+    height: 2%;
+    margin-left: 48%;
+    
+    position:absolute;
+    left: 1;
+    right: 0;
+    
+    letter-spacing: 3px;
+
+    border-radius: 5px;
+    padding: 0.5em;
+
+    
+}
+
+/*Starting of bottom container*/
+
+.bottom-container{
+    width: 97.7%;
+    background-color:#E0EBE8;
+    padding: 1%;
+
+}
+#social-media{
+
+   text-align: center;
+    color: #45b29a;
+
+}
+.social-media-icon{
+    padding-top: 0.5%;
+    text-align: center;
+    color: #45b29a;
+    
+}
+.social-media-icon a{
+    text-decoration: none;
+    
+    
+}
+#credit{
+    font-weight: bold;
+}
+
+
